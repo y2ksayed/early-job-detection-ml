@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+.env.local
+
+# Spark / data outputs
+data/fetched_jobs.json
+data/features/
+data/stream_in/
+data/stream_out/
+models/
+checkpoints/
+*.parquet
+*.delta
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+.ipynb_checkpoints/

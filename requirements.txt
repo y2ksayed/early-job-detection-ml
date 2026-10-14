@@ -1,0 +1,14 @@
+# Core
+pyspark==3.5.1
+pandas==2.2.2
+numpy==1.26.4
+
+# ML / NLP helpers for offline checks and exploration
+scikit-learn==1.5.1
+nltk==3.8.1
+
+# Utilities
+python-dotenv==1.0.1
+requests==2.32.3
+pyyaml==1.0.1
+pytest==8.3.2
